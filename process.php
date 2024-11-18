@@ -1,4 +1,6 @@
 <?php
+// git commit -m "Added comments and minor modifications for Assignment #5"
+
 // Retrieve values from form or URL parameters
 $a = $_GET['a'] ?? null;
 $b = $_GET['b'] ?? null;
